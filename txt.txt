@@ -1,0 +1,6 @@
+Crear diccionario 
+Como validar que una entrada sea generica 
+Hacer que python genere el id 
+Validar entradas de string 
+Como resolver variable de tiempo
+Como hacer para cuando lo encuentre 
